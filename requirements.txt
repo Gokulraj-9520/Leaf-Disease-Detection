@@ -1,0 +1,6 @@
+streamlit
+streamlit_optionmenu
+numpy 
+tensorflow
+pillow
+keras
