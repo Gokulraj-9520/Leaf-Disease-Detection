@@ -14,3 +14,9 @@
 ### 2. Data Preprocessing:
 ####    Perform data cleaning and preprocessing to prepare the dataset for model training.
 ####    Implement data augmentation techniques to enhance the training dataset without altering the original images' color information.
+
+
+### 3. Model Building:
+#### Design a deep learning architecture for leaf disease detection.Choose CNN architecture (Xception) that they believe will achieve the best performance.
+#### Train the model using the training dataset and validate it using the provided test set.
+#### Tune hyperparameters to optimize model performance.
