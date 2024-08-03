@@ -9,3 +9,8 @@
 
 ### 1. Dataset Acquisition:
 #### Download the dataset from Kaggle Leaf Disease Detection Dataset https://www.kaggle.com/datasets/dev523/leaf-disease-detection-dataset
+
+
+### 2. Data Preprocessing:
+####    Perform data cleaning and preprocessing to prepare the dataset for model training.
+####    Implement data augmentation techniques to enhance the training dataset without altering the original images' color information.
