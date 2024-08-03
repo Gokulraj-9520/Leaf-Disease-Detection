@@ -20,3 +20,8 @@
 #### Design a deep learning architecture for leaf disease detection.Choose CNN architecture (Xception) that they believe will achieve the best performance.
 #### Train the model using the training dataset and validate it using the provided test set.
 #### Tune hyperparameters to optimize model performance.
+
+
+### 4. Application Interface:
+#### Created a user friendly interface using Streamlit that allows users to upload leaf images and receive disease predictions.
+#### Include options for displaying the uploaded image and the predicted disease class with its probability.
